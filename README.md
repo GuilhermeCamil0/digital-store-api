@@ -14,6 +14,6 @@ API RESTful desenvolvida em Node.js com Express, Sequelize, MySQL, autenticaçã
 
 1. **Clone o repositório e instale as dependências:**
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/GuilhermeCamil0/digital-store-api/edit/main/README.md
    cd projeto-backend
    npm install
